@@ -5,4 +5,7 @@ public class Constants {
     public static double DEAD_ZONE = 0.35;
     public static double DRIVE_MOTOR_MAX = 1.0;
     public static double DRIVE_MOTOR_MIN = -1.0;
+
+    // Arms
+    public static double ARM_MOVE_MULTIPLIER = 0.4;
 }
