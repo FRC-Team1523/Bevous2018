@@ -3,7 +3,6 @@ package frc.team1523.robot;
 
 import edu.wpi.first.wpilibj.*;
 import edu.wpi.first.wpilibj.command.Scheduler;
-import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import frc.team1523.robot.subsystems.ArmControl;
 import frc.team1523.robot.subsystems.DriveTrain;
 
