@@ -14,7 +14,7 @@ public class DriveTrain extends Subsystem {
     private Talon left_front = new Talon(RobotMap.DRIVE_LEFT_FRONT);
     private Talon left_rear = new Talon(RobotMap.DRIVE_LEFT_REAR);
     private Talon right_front = new Talon(RobotMap.DRIVE_RIGHT_FRONT);
-    private Spark right_rear = new Spark(RobotMap.DRIVE_RIGHT_REAR);
+    private Talon right_rear = new Talon(RobotMap.DRIVE_RIGHT_REAR);
 
     private MecanumDrive drive;
 
